@@ -6,7 +6,7 @@
 # Shopify Url:- https://the-cave-5790.myshopify.com/
 
 
-#Screenshot to add CDN:- Please  check below.
+# Screenshot to add CDN:- Please  check below.
 1. https://prnt.sc/1iRi8ARYqjfF
 2. https://prnt.sc/DUdXJywoBors
 
@@ -22,11 +22,11 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js" integrity="sha512-XtmMtDEcNz2j7ekrtHvOVR4iwwaD6o/FUJe6+Zq+HgcCsk3kj4uSQQR8weQ2QVj1o0Pk6PwYLohm206ZzNfubg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
     
-#Here Is the Demo Url:- https://thecavellc.com/
+# Here Is the Demo Url:- https://thecavellc.com/
 
 
 If you face any issue & problems to configure to that, Please feel free to contact any time on Emial
 
-#Email:- ecommerce.web.expert@gmail.com
+# Email:- ecommerce.web.expert@gmail.com
 
-#Thanks!
+# Thanks!
